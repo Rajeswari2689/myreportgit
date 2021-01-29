@@ -22,5 +22,5 @@
        import numpy
        import pandas
 # Display image
-![alt fei].(fei.png)
+![alt fei](fei.png)
  
