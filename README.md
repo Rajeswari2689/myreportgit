@@ -22,4 +22,4 @@
        import numpy
        import pandas
 # Display image
-![alt fie].(fei.jpg)
+![alt fie].(fei.png)
